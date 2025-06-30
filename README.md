@@ -50,7 +50,9 @@ pip install -r requirements.txt
 - `delay_between_requests`：每次提交后的固定延迟（秒）
 - `random_delay_range`：每次提交可选的随机延迟范围（秒）
 - `nstproxy_Channel`/`nstproxy_Password`：NSTProxy 代理池的通道和密码
-
+## 配置说明
+nstproxy注册链接：https://app.nstproxy.com/register?i=EE0Ije
+capmonster注册链接：https://capmonster.cloud/Dashboard
 ## 邮箱列表
 
 将待提交的邮箱逐行写入 `emails.txt`，例如：
