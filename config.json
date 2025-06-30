@@ -1,0 +1,13 @@
+{
+    "capmonster_api_key": "",
+    "website_url": "https://shelby.xyz/",
+    "turnstile_sitekey": "0x4AAAAAABievuLJEeerSHkD",
+    "hubspot_api_url": "https://shelby.xyz/api/hubspot-contact",
+    "default_emails": [
+      "xxx@outlook.com"
+    ],
+    "delay_between_requests": 15.0,
+    "random_delay_range": [3.0, 8.0],
+    "nstproxy_Channel": "通道id",
+    "nstproxy_Password": "密码"
+  }
